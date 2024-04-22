@@ -1,2 +1,0 @@
-# Faccat
-Exercicios da Faccat
